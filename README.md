@@ -41,7 +41,7 @@ The project leverages a combination of fusion transformer architecture and Globa
 
 1. **Clone the repository**:
    ```bash
-https://github.com/lakhankrishna/masterproject
+	https://github.com/lakhankrishna/masterproject
 2. Install anaconda with python 3.11
 3. Open jupyter notebook
 4. Go to cloned location on the computer
